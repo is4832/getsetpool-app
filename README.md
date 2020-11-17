@@ -1,4 +1,4 @@
-# RideX
+# GetSetPool
 
-A Decentralized Vehicle System
+A Decentralized Ride Service Android Application
 
